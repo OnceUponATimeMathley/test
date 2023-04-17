@@ -1,0 +1,3 @@
+[submodule "rainscales/AI_models"]
+	path = rainscales/AI_models
+	url = git@github.com:RainScales/backup-rainscale-model.git
